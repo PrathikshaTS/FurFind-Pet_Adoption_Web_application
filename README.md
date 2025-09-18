@@ -23,10 +23,12 @@ FurFind is a MERN (MongoDB, Express.js, React.js, Node.js) stack web application
 ## Clone the Repository
 
 git clone https://github.com/PrathikshaTS/FurFind-Pet_Adoption_Web_application.git
+
 cd FurFind-Pet_Adoption_Web_application
 
 ## Configuration / Environment Variables
 **Create a `.env` file in the backend folder with the following variables:**
+
 PORT=8000
 CLIENT_URL=http://localhost:5173
 
