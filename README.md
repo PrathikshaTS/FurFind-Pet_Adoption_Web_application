@@ -44,19 +44,28 @@ VITE_BACKEND_URL=http://localhost:8000
 
 ## Usage / How to Run
 ### Backend
-1. Navigate to the backend folder:
-   cd backend
+1. Navigate to the backend folder:. 
+
+cd backend
 2. Install dependencies:
-  npm install
+ 
+npm install
+
 3.Start the backend server:
-  npm start
+
+npm start
 
 ### Frontend
 1.Navigate to the backend folder:
+  
   cd ../frontend
+
 2.Install dependencies:
+  
   npm install
+
 3.Start the frontend development server:
+
   npm run dev
 
 
