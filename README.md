@@ -43,10 +43,13 @@ CLOUDINARY_API_SECRET=<your_cloudinary_api_secret>
 VITE_BACKEND_URL=http://localhost:8000
 
 ## Usage / How to Run
+
 ### Backend
+
 1. Navigate to the backend folder:. 
 
 cd backend
+
 2. Install dependencies:
  
 npm install
@@ -56,6 +59,7 @@ npm install
 npm start
 
 ### Frontend
+
 1.Navigate to the backend folder:
   
   cd ../frontend
